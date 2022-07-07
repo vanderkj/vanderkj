@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanderkj
+- 👋 Hi, I’m @vanderkj(Hans)
 - 👀 I’m interested in learning to code, music and good detectives shows
 - 🌱 I’m currently learning Python
 
